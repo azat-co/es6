@@ -83,5 +83,80 @@ Azat Mardan @azat_co
 
 ---
 
+### Who designs ECMAScript?
+
+---
+
+### TC39: Technical Committee 39
+
+---
+
+### TC39 Consists of Implementers
+
+* Mozilla
+* jQuery
+* Google
+* Microsoft
+* Apple
+
+For example: [Dec 1, 2016 Meeting notes](https://github.com/rwaldron/tc39-notes/blob/master/es7/2016-11/dec-1.md#december-1-2016-meeting-notes)
+
+---
+
+### ES6 is large... ES7+ smaller+more often.
+
+^Starting with ECMAScript 2016 (ES7), releases will happen more frequently and be much smaller as a consequence. There will be one release per year and it will contain all features that are finished by a yearly deadline.
+
+---
+
+# 4 Stages
+
+---
+
+## Stage 0: Strawman
+
+^A free-form way of submitting ideas for evolving ECMAScript. Submissions must come either from a TC39 member or a non-member who has registered as a TC39 contributor.
+
+---
+
+## Stage 1: Proposal
+
+^A formal proposal of the feature.
+
+---
+
+## Stage 2: Draft
+
+^The proposal was accepted and this is the work in progress implementation.
+
+---
+
+## Stage 3: Candidate
+
+^The proposal is done and getting feedback from implementers and users/developers.
+
+---
+
+## Stage 4: finished
+
+^The proposal is included in the standard.
+
+---
+
+# Problem with JavaScript
+
+---
+
+### Backwards compatibility: Cannot break the old features
+
+---
 
 # Syntax vs Language Features
+
+---
+
+### Syntax Features: Sugarcoating or aliases or shortcuts
+
+---
+
+### Language Features: More advanced and complex features
