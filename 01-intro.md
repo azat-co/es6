@@ -18,43 +18,55 @@ Azat Mardan @azat_co
 
 ## Before: JavaScript is NOT a real language
 
-^In the past, I would often here from software engineers (especially pure back-end developers) doubts whether JavaScript could serve as a workable programming language; instead favoring languages such as Java, Python or C++.
+^In the past, I would often hear doubts from software engineers (especially pure back-end developers) whether JavaScript be a workable programming language. They would instead favor languages such as Java, Python or C++.
 
 ---
 
 ## Now: JavaScript is THE language
 
----
-
-### It’s fair to say, early JavaScript had its [quirks](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/bad-parts.html), but ES6 represents a significant move forward for JavaScript.
+^No. More! JavaScript is everywhere, in web, IoT, servers, cloud and mobile!
 
 ---
 
-### Let’s look at the history of the language... those who don't know the history can't make it.
+### ECMAScript6/ECMAScript2015+! 🚆
+
+^It’s fair to say, early JavaScript had its [quirks](http://archive.oreilly.com/pub/a/javascript/excerpts/javascript-good-parts/bad-parts.html), but ES6 represents a significant move forward for JavaScript.
 
 ---
 
 ## A brief JavaScript timeline
 
+^Let’s look at the history of the language... "those who don't know the history can't make it."- said SOMEONE smart.
+
 ---
 
 ### 1995: JavaScript is born as LiveScript at Netscape
+
+![right 100%](images/Braveheart_Movie_1995.jpg)
 
 ---
 
 ### 1997: ECMAScript standard is established by European Computer Manufacturers Association (ECMA)
 
+![right 100%](images/images 2.jpg)
+
 ---
 
 ### 1999: ES3 comes out and IE5 is all the rage; the most popular debugging method is `alert(error);`
+
+![right 100%](images/maxresdefault.jpg)
 
 ---
 
 ### 2000-2005: `XMLHttpRequest`, a.k.a. AJAX, gains popularity in app such as Outlook Web Access (2000) and Oddpost (2002), Gmail (2004) and Google Maps (2005)
 
+![right 100%](images/large_yumzX3Fn7geEKEjuAGNcRjZETPE.jpg)
+
 ---
 
 ### 2009: ES5 comes out (this is what most of us use now) with `forEach`, `Object.keys`, `Object.create` (specially for [Douglas Crockford](http://www.crockford.com)), and standard JSON
+
+![right 100%](images/images 3.jpg)
 
 ---
 
@@ -62,7 +74,19 @@ Azat Mardan @azat_co
 
 ---
 
-### 2016: ES7 is on the [horizon](http://www.2ality.com/2015/11/tc39-process.html)
+### 2016: ES7 is on the [final](http://www.2ality.com/2016/01/ecmascript-2016.html)
+
+---
+
+### 2017: ES8 is on the [horizon](http://www.2ality.com/2016/02/ecmascript-2017.html)
+
+---
+
+# Problem with JavaScript
+
+---
+
+### Backwards compatibility: Cannot break the old features
 
 ---
 
@@ -74,7 +98,9 @@ Azat Mardan @azat_co
 
 ---
 
-### ECMAScript (or ES) is a trademarked scripting-language specification standardized by Ecma International in ECMA-262 and ISO/IEC 16262.
+### ECMAScript (or ES) is a trademarked scripting-language specification
+
+^ ECMAScript was standardized by Ecma International in ECMA-262 and ISO/IEC 16262.
 
 
 ---
@@ -143,20 +169,31 @@ For example: [Dec 1, 2016 Meeting notes](https://github.com/rwaldron/tc39-notes/
 
 ---
 
-# Problem with JavaScript
+# ES6 Syntax vs Language Features
 
----
-
-### Backwards compatibility: Cannot break the old features
-
----
-
-# Syntax vs Language Features
+^In this course, I brokedown top ES6 features into two categories
 
 ---
 
 ### Syntax Features: Sugarcoating or aliases or shortcuts
 
+1. Block-Scoped Constructs: Let and Const
+1. Default Parameters
+1. Rest and Spread Parameters
+1. Template Literals
+1. Multi-line Strings
+1. Destructuring Assignment
+1. Arrow Functions 8. For Of Comprehensions
+
 ---
 
 ### Language Features: More advanced and complex features
+
+1. Promises
+1. Enhanced Object Literals
+1. Classes
+1. Modules
+
+---
+
+# Onward! 🚀
