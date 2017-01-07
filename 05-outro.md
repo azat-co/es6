@@ -19,6 +19,10 @@ Azat Mardan @azat_co
 
 ---
 
+# ES6 Performance? Check out <http://kpdecker.github.io/six-speed>
+
+---
+
 ![left 100%](images/es6-cover.png)
 
 # ES6/ES2015 Cheatsheet:
